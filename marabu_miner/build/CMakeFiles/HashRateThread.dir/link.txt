@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/HashRateThread.dir/source/hash-rate-thread.cpp.o -o HashRateThread  libHashes.a ../cryptopp/libcryptopp.a 

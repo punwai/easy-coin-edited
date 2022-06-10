@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHashes.a CMakeFiles/Hashes.dir/source/hash.cpp.o
+/usr/bin/ranlib libHashes.a

@@ -1,0 +1,5 @@
+/home/punwai/easycoin/marabu_miner/build/CMakeFiles/Hashes.dir
+/home/punwai/easycoin/marabu_miner/build/CMakeFiles/HashRateThread.dir
+/home/punwai/easycoin/marabu_miner/build/CMakeFiles/MinerStandalone.dir
+/home/punwai/easycoin/marabu_miner/build/CMakeFiles/edit_cache.dir
+/home/punwai/easycoin/marabu_miner/build/CMakeFiles/rebuild_cache.dir

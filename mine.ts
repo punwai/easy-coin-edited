@@ -25,7 +25,7 @@ export async function startMining() {
 		T: BLOCK_TARGET,
 		created: timeNow,
 		miner: config.minerName,
-		note: "Test block (full target)",
+		note: "suppakit/solal/nrhmy",
 		previd: previd,
 		txids: txids,
 		nonce: "0000000000000000000000000000000000000000000000000000000000000000"

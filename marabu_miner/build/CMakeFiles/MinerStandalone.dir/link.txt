@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/MinerStandalone.dir/source/miner.cpp.o -o MinerStandalone  libHashes.a ../cryptopp/libcryptopp.a 
